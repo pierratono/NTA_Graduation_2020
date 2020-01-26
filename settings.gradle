@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='NTA Graduation 2020'
